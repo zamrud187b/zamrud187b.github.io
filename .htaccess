@@ -1,0 +1,3 @@
+<Files ~ "\.(pdf|gif|txt)$">
+  Header set X-Robots-Tag "noindex"
+</Files>
